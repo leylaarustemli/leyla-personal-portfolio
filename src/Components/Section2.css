@@ -1,0 +1,58 @@
+.section2{
+    background-color: #02050a;
+padding: 120px 0; 
+}
+.ust-sctn2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+    gap: 20px;
+}
+.ust-sctn2 h4{
+    color: #55e6a5;
+    font-size: 18px;
+}
+.ust-sctn2 h2{
+    font-size: 48px;
+    width: 550px;
+    text-align: center;
+}
+.card1{
+ border: 3px solid #191919;
+width: 380px;
+    text-align: center;
+    position: relative;
+    color: white;
+    padding: 0px 40px 10px 40px;
+    margin-top: 62px;
+
+
+    
+}
+.card1 h4{
+font-size: 20px;
+}
+.card1 p{
+    font-size: 20px;
+    color: #a2a2a2;
+    margin-top: 15px;
+}
+.three-cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+
+   
+}
+.card1 svg{
+    position: relative;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    top: -46px;
+    width: 100px;
+
+
+}

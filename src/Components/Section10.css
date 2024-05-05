@@ -1,0 +1,35 @@
+.sectionn{
+    background-image: url("	https://zyan.vercel.app/images/bg/subscribe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    /* padding: 140px 0; */
+}
+.section10 { 
+background-color: #000000d5;
+padding: 150px 0;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 40px;
+}
+.container h3{
+    color: White;
+    font-size: 32px;
+}
+.sectn10-input input{
+    padding: 22px 0;
+   width: 550px;
+    border: 1px  solid #55e6a5;
+    background-color: #131313;
+    font-size: 19px;
+}
+ 
+.sectn10-input button{
+   background-color: #55e6a5;
+   padding: 19px ;
+   border: none;
+   font-size: 16px;
+}

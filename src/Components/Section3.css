@@ -1,0 +1,58 @@
+.section3 .container{
+
+    display: flex;
+    justify-content: space-between;
+   
+} 
+.section3{
+    background-color: #02050a;
+    padding: 50px 0;
+}
+
+.left-sectn3 h4{
+    color: #55e6a5;
+    font-size: 24px;
+   
+ 
+}
+.left-sectn3 p{
+    color: #a2a2a2;
+    width: 550px;
+    margin-top: 30px;
+    font-size: 18px;
+
+
+}
+.left-sectn3 h2{
+    font-size: 48px;
+    color: white;
+    width: 560px;
+    margin-top: 20px;
+}
+.down-btn button{
+    border: 1px solid  #55e6a5;
+  color: black;
+  padding: 20px;
+  background-color: #55e6a5;
+  font-size: 16px;
+}
+.down-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+.daily-activity{
+    background-color: #232323;
+    width: 200px;
+  position: relative;
+  display: block;
+
+  color: white;
+margin: 0 auto;
+padding: 20px;
+}
+.daily-activity span{
+    color: #a2a2a2;
+}
+

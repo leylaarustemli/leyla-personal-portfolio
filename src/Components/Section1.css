@@ -1,7 +1,67 @@
 .section1{
     background-image: url("	https://zyan.vercel.app/images/bg/banner.jpg");
-    height: 100vh;
+    /* height: 100vh; */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  display: flex;
+
+   
+}
+.left-sectn1{
+    color: white;
+    width: 546px;
+
+}
+.section1 .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+}
+.left-sectn1 h1{
+    font-size: 48px;
+    width: 546px;
+    margin-bottom: 40px;
+    
+}
+.left-sectn1 img{
+    width: 381px;
+}
+.left-sectn1 p{
+   font-size: 16px;
+   color: #a2a2a2;
+   font-size: 18px;
+}
+.btn-video{
+    display: flex;
+    color: white;
+    margin-top: 40px;
+    gap: 50px;
+}
+.icn-p{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.btn-video a{
+    color: black;
+    border: 1px solid #55e6a5;
+    background-color: #55e6a5;
+    padding: 18px;
+    
+}
+.icn-p i{
+    border-radius: 50%;
+    background-color: #55e6a5;
+    padding: 20px;
+    color: black;
+    font-size: 24px;
+}
+.icn-p p{
+    color: white;
+  
 }
