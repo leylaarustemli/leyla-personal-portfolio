@@ -20,11 +20,15 @@ gap: 40px;
     font-size: 32px;
 }
 .sectn10-input input{
-    padding: 22px 0;
-   width: 550px;
+    padding: 27px 40px;
+   width: 70%;
     border: 1px  solid #55e6a5;
     background-color: #131313;
     font-size: 19px;
+}
+.sectn10-input{
+    max-width: 550px;
+    display: flex;
 }
  
 .sectn10-input button{
@@ -32,4 +36,13 @@ gap: 40px;
    padding: 19px ;
    border: none;
    font-size: 16px;
+   width: 30%;
+   display: block;
+}
+@media only screen and(max-width:600px){
+    .sectn10-input{
+        width: 300px;
+    }
+       
+    
 }

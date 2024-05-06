@@ -1,0 +1,86 @@
+.ust-sctn5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 60px 0;
+}
+.section5{
+    background-color: #09101a;
+    color: white;
+    padding: 115px 0;
+}
+.ust-twocard{
+    display: flex;
+   
+}
+.alt-twocard{
+    display: flex;
+   
+}
+.cardbir div{
+border: 1px solid #55e6a5;
+width: 140px;
+padding: 13px 6px;
+text-align: center;
+color: #55e6a5;
+font-size: 18px;
+}
+.cardbir{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.cardbir h4{
+    font-size: 36px;
+    
+}
+.cardbir p{
+    color: #a2a2a2;
+    font-size: 17px;
+}
+.ust-sctn5 h4{
+    color: #55e6a5;
+    font-size: 17px;
+}
+.ust-sctn5 h2{
+    font-size: 48px;
+    width: 650px;
+    text-align: center;
+    margin-top: 20px;
+}
+.program-language{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+   
+}
+.html{
+    
+    background-color: #151c25;
+    width: 600px;
+}
+.html p{
+    padding: 20px;
+}
+.alt-html{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+
+}
+.ust-html{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+.program-language p{
+    font-size: 18px;
+}
+.color{
+    height: 6px;
+    width: 75%;
+    background-color: #55e6a5;
+}

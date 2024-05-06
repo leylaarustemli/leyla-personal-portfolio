@@ -13,11 +13,10 @@ const Section1 = () => {
             <div className="icn-p">
             <i class="fa-solid fa-play"></i> <p>Watch The Video</p>
             </div>
-            
           </div>
         </div>
         <div className="right-sctn1">
-          <img src="{img.jpg}" alt="" />
+          <img src={leyla} alt="" />
         </div>
       </div>
     </section>

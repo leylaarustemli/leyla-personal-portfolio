@@ -1,11 +1,12 @@
 import React from "react";
 import "./Header.css"
+import logo from "./logo.jpg"
 const Header = () => {
   return (
     <header>
       <div className="container">
         <div className="left-header">
-          <img src="https://zyan.vercel.app/images/logo.png" alt="" />
+          <img src={logo} alt="" />
         </div>
         <div className="middle-header">
           <a href="">HOME</a>

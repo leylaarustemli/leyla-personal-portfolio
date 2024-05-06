@@ -1,5 +1,6 @@
 import React from "react";
 import "./Section3.css";
+import leyla2 from "./leyla2.jpg"
 const Section3 = () => {
   return (
     <section className="section3">
@@ -20,7 +21,7 @@ const Section3 = () => {
         </div>
       </div>
       <div className="right-sectn3">
-        <img src="https://zyan.vercel.app/images/about_img.jpg" alt="" />
+        <img width="375px" src={leyla2} alt="" />
         <div className="daily-activity">
     
           
